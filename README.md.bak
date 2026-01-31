@@ -63,22 +63,4 @@
 
 * Bước 5: Chia sẻ tài khoản Github của cá nhân cho người khác:
 
-	Các bước thêm người cộng tác (Collaborator) như sau:
-
-	- Truy cập vào mục Collaborators:
-
-		+ Trong giao diện Repository của tôi (trieuthido88-commits \ 140123013-TTDo-TestASP.net), chọn tab Settings (biểu tượng bánh răng) trên thanh menu ngang.
-
-		+ Ở cột menu bên tay trái, tìm mục Access, sau đó nhấn vào Collaborators.
-
-	- Thực hiện thêm người mới:
-
-		+ Tại mục Manage access, nhấn vào nút Add people (nút màu xám trắng ở góc phải).
-
-		+ Một cửa sổ hiện lên, hãy nhập Username (Tên người dùng), Email hoặc Full name của người bạn muốn chia sẻ, cụ thể tôi đã thêm người có tên là Đoàn Phước Miền (username: antonio86doan@gmail.com).
-
-	- Xác nhận:
-
-		+ Sau khi chọn đúng người, nhấn Add [tên người dùng] to this repository.
-
-		+ Hệ thống sẽ gửi một lời mời (Invitation) qua Email cho người đó.
+	- 
