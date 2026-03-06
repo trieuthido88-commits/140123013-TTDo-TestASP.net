@@ -1,0 +1,228 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\TTDo\\140123013-TTDo-TestASP.net\\Nop bai\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{76398EE1-379B-4A66-BC5B-9472AE2649A6}|WebApplication1\\WebApplication1.csproj|d:\\ttdo\\140123013-ttdo-testasp.net\\nop bai\\webapplication1\\site1.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}",
+      "RelativeMoniker": "D:0:0:{76398EE1-379B-4A66-BC5B-9472AE2649A6}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\site1.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{76398EE1-379B-4A66-BC5B-9472AE2649A6}|WebApplication1\\WebApplication1.csproj|D:\\TTDo\\140123013-TTDo-TestASP.net\\Nop bai\\webapplication1\\logout.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{76398EE1-379B-4A66-BC5B-9472AE2649A6}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\logout.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{76398EE1-379B-4A66-BC5B-9472AE2649A6}|WebApplication1\\WebApplication1.csproj|D:\\TTDo\\140123013-TTDo-TestASP.net\\Nop bai\\webapplication1\\logout.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{76398EE1-379B-4A66-BC5B-9472AE2649A6}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\logout.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{76398EE1-379B-4A66-BC5B-9472AE2649A6}|WebApplication1\\WebApplication1.csproj|D:\\TTDo\\140123013-TTDo-TestASP.net\\Nop bai\\webapplication1\\login.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{76398EE1-379B-4A66-BC5B-9472AE2649A6}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\login.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{76398EE1-379B-4A66-BC5B-9472AE2649A6}|WebApplication1\\WebApplication1.csproj|D:\\TTDo\\140123013-TTDo-TestASP.net\\Nop bai\\webapplication1\\signup.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{76398EE1-379B-4A66-BC5B-9472AE2649A6}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\signup.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{76398EE1-379B-4A66-BC5B-9472AE2649A6}|WebApplication1\\WebApplication1.csproj|D:\\TTDo\\140123013-TTDo-TestASP.net\\Nop bai\\webapplication1\\login.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{76398EE1-379B-4A66-BC5B-9472AE2649A6}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\login.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{76398EE1-379B-4A66-BC5B-9472AE2649A6}|WebApplication1\\WebApplication1.csproj|D:\\TTDo\\140123013-TTDo-TestASP.net\\Nop bai\\webapplication1\\ketnoi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{76398EE1-379B-4A66-BC5B-9472AE2649A6}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\ketnoi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{76398EE1-379B-4A66-BC5B-9472AE2649A6}|WebApplication1\\WebApplication1.csproj|D:\\TTDo\\140123013-TTDo-TestASP.net\\Nop bai\\webapplication1\\images\\h3.jpg||{58961B49-13E0-48C0-9258-13CBC4D40279}",
+      "RelativeMoniker": "D:0:0:{76398EE1-379B-4A66-BC5B-9472AE2649A6}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\images\\h3.jpg||{58961B49-13E0-48C0-9258-13CBC4D40279}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{76398EE1-379B-4A66-BC5B-9472AE2649A6}|WebApplication1\\WebApplication1.csproj|D:\\TTDo\\140123013-TTDo-TestASP.net\\Nop bai\\webapplication1\\images\\h2.jpg||{58961B49-13E0-48C0-9258-13CBC4D40279}",
+      "RelativeMoniker": "D:0:0:{76398EE1-379B-4A66-BC5B-9472AE2649A6}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\images\\h2.jpg||{58961B49-13E0-48C0-9258-13CBC4D40279}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{76398EE1-379B-4A66-BC5B-9472AE2649A6}|WebApplication1\\WebApplication1.csproj|D:\\TTDo\\140123013-TTDo-TestASP.net\\Nop bai\\webapplication1\\images\\h1.jpg||{58961B49-13E0-48C0-9258-13CBC4D40279}",
+      "RelativeMoniker": "D:0:0:{76398EE1-379B-4A66-BC5B-9472AE2649A6}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\images\\h1.jpg||{58961B49-13E0-48C0-9258-13CBC4D40279}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{76398EE1-379B-4A66-BC5B-9472AE2649A6}|WebApplication1\\WebApplication1.csproj|D:\\TTDo\\140123013-TTDo-TestASP.net\\Nop bai\\webapplication1\\signup.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{76398EE1-379B-4A66-BC5B-9472AE2649A6}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\signup.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{76398EE1-379B-4A66-BC5B-9472AE2649A6}|WebApplication1\\WebApplication1.csproj|D:\\TTDo\\140123013-TTDo-TestASP.net\\Nop bai\\webapplication1\\default.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{76398EE1-379B-4A66-BC5B-9472AE2649A6}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\default.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\L\u1EDAP \u0110\u1EA0I H\u1ECCC CNTT - 2023-2025\\M\u00F4n - CHUY\u00CAN \u0110\u1EC0 ASP.NET - TH\u1EA6Y MI\u1EC0N\\TTDo\\140123013-TTDo-TestASP.net\\WebApplication2\\140123013-TTDo-TestASP.net\\WebApplication1\\WebApplication1\\Lienhe.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Logout.aspx.cs",
+              "DocumentMoniker": "D:\\TTDo\\140123013-TTDo-TestASP.net\\Nop bai\\WebApplication1\\Logout.aspx.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Logout.aspx.cs",
+              "ToolTip": "D:\\TTDo\\140123013-TTDo-TestASP.net\\Nop bai\\WebApplication1\\Logout.aspx.cs",
+              "RelativeToolTip": "WebApplication1\\Logout.aspx.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-09T13:39:29.065Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Logout.aspx",
+              "DocumentMoniker": "D:\\TTDo\\140123013-TTDo-TestASP.net\\Nop bai\\WebApplication1\\Logout.aspx",
+              "RelativeDocumentMoniker": "WebApplication1\\Logout.aspx",
+              "ToolTip": "D:\\TTDo\\140123013-TTDo-TestASP.net\\Nop bai\\WebApplication1\\Logout.aspx",
+              "RelativeToolTip": "WebApplication1\\Logout.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2026-02-09T13:39:18.604Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Login.aspx.cs",
+              "DocumentMoniker": "D:\\TTDo\\140123013-TTDo-TestASP.net\\Nop bai\\WebApplication1\\Login.aspx.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Login.aspx.cs",
+              "ToolTip": "D:\\TTDo\\140123013-TTDo-TestASP.net\\Nop bai\\WebApplication1\\Login.aspx.cs",
+              "RelativeToolTip": "WebApplication1\\Login.aspx.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-08T12:05:49.084Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "H1.jpg",
+              "DocumentMoniker": "D:\\TTDo\\140123013-TTDo-TestASP.net\\Nop bai\\WebApplication1\\Images\\H1.jpg",
+              "RelativeDocumentMoniker": "WebApplication1\\Images\\H1.jpg",
+              "ToolTip": "D:\\TTDo\\140123013-TTDo-TestASP.net\\Nop bai\\WebApplication1\\Images\\H1.jpg",
+              "RelativeToolTip": "WebApplication1\\Images\\H1.jpg",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2026-02-08T11:05:47.42Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Ketnoi.cs",
+              "DocumentMoniker": "D:\\TTDo\\140123013-TTDo-TestASP.net\\Nop bai\\WebApplication1\\Ketnoi.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Ketnoi.cs",
+              "ToolTip": "D:\\TTDo\\140123013-TTDo-TestASP.net\\Nop bai\\WebApplication1\\Ketnoi.cs",
+              "RelativeToolTip": "WebApplication1\\Ketnoi.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-08T09:33:35.26Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Signup.aspx.cs",
+              "DocumentMoniker": "D:\\TTDo\\140123013-TTDo-TestASP.net\\Nop bai\\WebApplication1\\Signup.aspx.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Signup.aspx.cs",
+              "ToolTip": "D:\\TTDo\\140123013-TTDo-TestASP.net\\Nop bai\\WebApplication1\\Signup.aspx.cs",
+              "RelativeToolTip": "WebApplication1\\Signup.aspx.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-08T09:33:35.368Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Site1.Master",
+              "DocumentMoniker": "D:\\TTDo\\140123013-TTDo-TestASP.net\\Nop bai\\WebApplication1\\Site1.Master",
+              "RelativeDocumentMoniker": "WebApplication1\\Site1.Master",
+              "ToolTip": "D:\\TTDo\\140123013-TTDo-TestASP.net\\Nop bai\\WebApplication1\\Site1.Master",
+              "RelativeToolTip": "WebApplication1\\Site1.Master",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2026-02-08T09:33:35.444Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Login.aspx",
+              "DocumentMoniker": "D:\\TTDo\\140123013-TTDo-TestASP.net\\Nop bai\\WebApplication1\\Login.aspx",
+              "RelativeDocumentMoniker": "WebApplication1\\Login.aspx",
+              "ToolTip": "D:\\TTDo\\140123013-TTDo-TestASP.net\\Nop bai\\WebApplication1\\Login.aspx",
+              "RelativeToolTip": "WebApplication1\\Login.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2026-02-08T09:33:35.452Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Lienhe.aspx",
+              "DocumentMoniker": "D:\\L\u1EDAP \u0110\u1EA0I H\u1ECCC CNTT - 2023-2025\\M\u00F4n - CHUY\u00CAN \u0110\u1EC0 ASP.NET - TH\u1EA6Y MI\u1EC0N\\TTDo\\140123013-TTDo-TestASP.net\\WebApplication2\\140123013-TTDo-TestASP.net\\WebApplication1\\WebApplication1\\Lienhe.aspx",
+              "RelativeDocumentMoniker": "..\\..\\..\\L\u1EDAP \u0110\u1EA0I H\u1ECCC CNTT - 2023-2025\\M\u00F4n - CHUY\u00CAN \u0110\u1EC0 ASP.NET - TH\u1EA6Y MI\u1EC0N\\TTDo\\140123013-TTDo-TestASP.net\\WebApplication2\\140123013-TTDo-TestASP.net\\WebApplication1\\WebApplication1\\Lienhe.aspx",
+              "ToolTip": "D:\\L\u1EDAP \u0110\u1EA0I H\u1ECCC CNTT - 2023-2025\\M\u00F4n - CHUY\u00CAN \u0110\u1EC0 ASP.NET - TH\u1EA6Y MI\u1EC0N\\TTDo\\140123013-TTDo-TestASP.net\\WebApplication2\\140123013-TTDo-TestASP.net\\WebApplication1\\WebApplication1\\Lienhe.aspx",
+              "RelativeToolTip": "..\\..\\..\\L\u1EDAP \u0110\u1EA0I H\u1ECCC CNTT - 2023-2025\\M\u00F4n - CHUY\u00CAN \u0110\u1EC0 ASP.NET - TH\u1EA6Y MI\u1EC0N\\TTDo\\140123013-TTDo-TestASP.net\\WebApplication2\\140123013-TTDo-TestASP.net\\WebApplication1\\WebApplication1\\Lienhe.aspx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2026-02-08T09:33:35.444Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "H2.jpg",
+              "DocumentMoniker": "D:\\TTDo\\140123013-TTDo-TestASP.net\\Nop bai\\WebApplication1\\Images\\H2.jpg",
+              "RelativeDocumentMoniker": "WebApplication1\\Images\\H2.jpg",
+              "ToolTip": "D:\\TTDo\\140123013-TTDo-TestASP.net\\Nop bai\\WebApplication1\\Images\\H2.jpg",
+              "RelativeToolTip": "WebApplication1\\Images\\H2.jpg",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2026-02-08T11:05:53.369Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "H3.jpg",
+              "DocumentMoniker": "D:\\TTDo\\140123013-TTDo-TestASP.net\\Nop bai\\WebApplication1\\Images\\H3.jpg",
+              "RelativeDocumentMoniker": "WebApplication1\\Images\\H3.jpg",
+              "ToolTip": "D:\\TTDo\\140123013-TTDo-TestASP.net\\Nop bai\\WebApplication1\\Images\\H3.jpg",
+              "RelativeToolTip": "WebApplication1\\Images\\H3.jpg",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2026-02-08T11:05:56.349Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Signup.aspx",
+              "DocumentMoniker": "D:\\TTDo\\140123013-TTDo-TestASP.net\\Nop bai\\WebApplication1\\Signup.aspx",
+              "RelativeDocumentMoniker": "WebApplication1\\Signup.aspx",
+              "ToolTip": "D:\\TTDo\\140123013-TTDo-TestASP.net\\Nop bai\\WebApplication1\\Signup.aspx",
+              "RelativeToolTip": "WebApplication1\\Signup.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2026-02-08T09:33:35.451Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Default.aspx",
+              "DocumentMoniker": "D:\\TTDo\\140123013-TTDo-TestASP.net\\Nop bai\\WebApplication1\\default.aspx",
+              "RelativeDocumentMoniker": "WebApplication1\\default.aspx",
+              "ToolTip": "D:\\TTDo\\140123013-TTDo-TestASP.net\\Nop bai\\WebApplication1\\default.aspx",
+              "RelativeToolTip": "WebApplication1\\default.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2026-02-08T09:33:35.453Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
