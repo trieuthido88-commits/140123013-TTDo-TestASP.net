@@ -19,10 +19,11 @@ namespace WebApplication1
         Ketnoi kn = new Ketnoi();
         protected void Page_Load(object sender, EventArgs e)
         {
+            if (Session["Username"] != null)
+                Response.Redirect("default.aspx");
             if (!IsPostBack)
             {
-                if (session["user"] != null)
-                    Response.Redirect("Default.aspx");
+
             }
         }
         [Obsolete]
@@ -48,7 +49,8 @@ namespace WebApplication1
                 {
                     string filename = "Avatar/" + FileUpload.FileName;
                     string filepath = MapPath(filename);
-                    string sql = "insert into [User] (Username, Password, Fullname) values ('" + username + "','" + password + "',N'" + fullname + "')";
+                    FileUpload.SaveAs(filepath);
+                    string sql = "insert into [User] (Username, Password, Fullname, Avatar) values ('" + username + "','" + password + "',N'" + fullname + "','"+ filename +"')";
                     SqlCommand cmd = new SqlCommand(sql, kn.con);
                     kn.con.Open();
                     cmd.ExecuteNonQuery();
@@ -58,7 +60,7 @@ namespace WebApplication1
 
                 else
                 {
-                    string sql = "insert into [User] (Username, Password, Fullname) values ('" + username + "','" + password + "',N'" + fullname + "')";
+                    string sql = "insert into [User] (Username, Password, Fullname, Avatar) values ('" + username + "','" + password + "',N'" + fullname + "','')";
                     SqlCommand cmd = new SqlCommand(sql, kn.con);
                     kn.con.Open();
                     cmd.ExecuteNonQuery();
@@ -72,15 +74,15 @@ namespace WebApplication1
             string ext = Path.GetExtension(filename);
             switch (ext)
             {
-                case " .jpg":
+                case ".jpg":
                     return true;
-                case " .gif":
+                case ".gif":
                     return true;
-                case " .png":
+                case ".png":
                     return true;
-                case " .bmp":
+                case ".bmp":
                     return true;
-                case " .jpeg":
+                case ".jpeg":
                     return true;
                 default: return false;
 

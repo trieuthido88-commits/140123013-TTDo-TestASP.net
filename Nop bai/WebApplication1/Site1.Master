@@ -54,21 +54,24 @@
             <div class="collapse navbar-collapse" id="myNavbar">
               <ul class="nav navbar-nav">
                 <li class="active"><a href="default.aspx">Home</a></li>
-                <li><a href="#">About</a></li>
-                <li><a href="#">Projects</a></li>
-                <li><a href="#">Contact</a></li>
+                <li><a href="QLgiaovien.aspx">Quản lý Giáo viên</a></li>
+                <li><a href="QLmonhoc.aspx">Quản lý Môn học</a></li>
+                <li><a href="QLdiem.aspx">Quản lý Điểm</a></li>
+                <li><a href="QLhocvien.aspx">Quản lý Học Viên</a></li>
               </ul>
               <ul class="nav navbar-nav navbar-right">
-              <% if (Session["user"] != null)
-               { %>
-                <li><a href="Logout.aspx"><span class="glyphicon glyphicon-log-out"></span> Logout</a></li>
-                <% }
-               else
-               { %>
+                  <%if (Session["user"] != null)
+                      {
+                          %>
+                  <li><a href="Logout.aspx"><span class="glyphicon glyphicon-log-out"></span>(<%Response.Write(Session["user"].ToString()); %>) Logout</a></li>
+                    <%   
+                        }
+                        else
+                        { %>                                            
                 <li><a href="Login.aspx"><span class="glyphicon glyphicon-log-in"></span> Login</a></li>
-                <li><a href="Signup.aspx"><span class="glyphicon glyphicon-user"></span> Signup</a></li>
-                <% } 
-              %>
+                 <li><a href="Signup.aspx"><span class="glyphicon glyphicon-user"></span> Signup</a></li>
+              <% }%>
+
               </ul>
             </div>
           </div>
@@ -103,7 +106,7 @@
         <img src="Images/H3.jpg" alt="Image">
         <div class="carousel-caption">
           <h3>More Sell $</h3>
-          <p>Thay đổi ở đây...</p>
+          <p>Lorem ipsum...</p>
         </div>      
       </div>
     </div>
@@ -118,7 +121,7 @@
     </a>
 </div>
     <div class="container text-center">    
-  <br>
+  <h3>What We Do</h3><br>
   <div class="row">
     <div class="col-sm-3">
       
@@ -137,7 +140,7 @@
 
 <footer class="container-fluid text-center">
   <p><H3>ĐẠI HỌC TRÀ VINH</H3>
-      <H3>TRƯỜNG KỸ THUẬT VÀ CÔNG NGHỆ</H3>
+      <H4>TRƯỜNG KỸ THUẬT VÀ CÔNG NGHỆ</H4>
   </p>
 </footer>
 </body>

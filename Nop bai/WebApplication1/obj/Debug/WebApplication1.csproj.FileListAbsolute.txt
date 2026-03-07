@@ -116,66 +116,239 @@ D:\Huong\140123010.net\WebApplication1\WebApplication1\obj\Debug\WebApplication1
 D:\Huong\140123010.net\WebApplication1\WebApplication1\obj\Debug\WebApplication1.csproj.CopyComplete
 D:\Huong\140123010.net\WebApplication1\WebApplication1\obj\Debug\WebApplication1.dll
 D:\Huong\140123010.net\WebApplication1\WebApplication1\obj\Debug\WebApplication1.pdb
-D:\LỚP ĐẠI HỌC CNTT - 2023-2025\Môn - CHUYÊN ĐỀ ASP.NET - THẦY MIỀN\Huong\140123010.net\WebApplication1\WebApplication1\bin\WebApplication1.dll.config
-D:\LỚP ĐẠI HỌC CNTT - 2023-2025\Môn - CHUYÊN ĐỀ ASP.NET - THẦY MIỀN\Huong\140123010.net\WebApplication1\WebApplication1\bin\WebApplication1.dll
-D:\LỚP ĐẠI HỌC CNTT - 2023-2025\Môn - CHUYÊN ĐỀ ASP.NET - THẦY MIỀN\Huong\140123010.net\WebApplication1\WebApplication1\bin\WebApplication1.pdb
-D:\LỚP ĐẠI HỌC CNTT - 2023-2025\Môn - CHUYÊN ĐỀ ASP.NET - THẦY MIỀN\Huong\140123010.net\WebApplication1\WebApplication1\bin\roslyn\csc.exe
-D:\LỚP ĐẠI HỌC CNTT - 2023-2025\Môn - CHUYÊN ĐỀ ASP.NET - THẦY MIỀN\Huong\140123010.net\WebApplication1\WebApplication1\bin\roslyn\csc.exe.config
-D:\LỚP ĐẠI HỌC CNTT - 2023-2025\Môn - CHUYÊN ĐỀ ASP.NET - THẦY MIỀN\Huong\140123010.net\WebApplication1\WebApplication1\bin\roslyn\csc.rsp
-D:\LỚP ĐẠI HỌC CNTT - 2023-2025\Môn - CHUYÊN ĐỀ ASP.NET - THẦY MIỀN\Huong\140123010.net\WebApplication1\WebApplication1\bin\roslyn\csi.exe
-D:\LỚP ĐẠI HỌC CNTT - 2023-2025\Môn - CHUYÊN ĐỀ ASP.NET - THẦY MIỀN\Huong\140123010.net\WebApplication1\WebApplication1\bin\roslyn\csi.exe.config
-D:\LỚP ĐẠI HỌC CNTT - 2023-2025\Môn - CHUYÊN ĐỀ ASP.NET - THẦY MIỀN\Huong\140123010.net\WebApplication1\WebApplication1\bin\roslyn\csi.rsp
-D:\LỚP ĐẠI HỌC CNTT - 2023-2025\Môn - CHUYÊN ĐỀ ASP.NET - THẦY MIỀN\Huong\140123010.net\WebApplication1\WebApplication1\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
-D:\LỚP ĐẠI HỌC CNTT - 2023-2025\Môn - CHUYÊN ĐỀ ASP.NET - THẦY MIỀN\Huong\140123010.net\WebApplication1\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
-D:\LỚP ĐẠI HỌC CNTT - 2023-2025\Môn - CHUYÊN ĐỀ ASP.NET - THẦY MIỀN\Huong\140123010.net\WebApplication1\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
-D:\LỚP ĐẠI HỌC CNTT - 2023-2025\Môn - CHUYÊN ĐỀ ASP.NET - THẦY MIỀN\Huong\140123010.net\WebApplication1\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.dll
-D:\LỚP ĐẠI HỌC CNTT - 2023-2025\Môn - CHUYÊN ĐỀ ASP.NET - THẦY MIỀN\Huong\140123010.net\WebApplication1\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
-D:\LỚP ĐẠI HỌC CNTT - 2023-2025\Môn - CHUYÊN ĐỀ ASP.NET - THẦY MIỀN\Huong\140123010.net\WebApplication1\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
-D:\LỚP ĐẠI HỌC CNTT - 2023-2025\Môn - CHUYÊN ĐỀ ASP.NET - THẦY MIỀN\Huong\140123010.net\WebApplication1\WebApplication1\bin\roslyn\Microsoft.CSharp.Core.targets
-D:\LỚP ĐẠI HỌC CNTT - 2023-2025\Môn - CHUYÊN ĐỀ ASP.NET - THẦY MIỀN\Huong\140123010.net\WebApplication1\WebApplication1\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
-D:\LỚP ĐẠI HỌC CNTT - 2023-2025\Môn - CHUYÊN ĐỀ ASP.NET - THẦY MIỀN\Huong\140123010.net\WebApplication1\WebApplication1\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
-D:\LỚP ĐẠI HỌC CNTT - 2023-2025\Môn - CHUYÊN ĐỀ ASP.NET - THẦY MIỀN\Huong\140123010.net\WebApplication1\WebApplication1\bin\roslyn\Microsoft.Managed.Core.targets
-D:\LỚP ĐẠI HỌC CNTT - 2023-2025\Môn - CHUYÊN ĐỀ ASP.NET - THẦY MIỀN\Huong\140123010.net\WebApplication1\WebApplication1\bin\roslyn\Microsoft.VisualBasic.Core.targets
-D:\LỚP ĐẠI HỌC CNTT - 2023-2025\Môn - CHUYÊN ĐỀ ASP.NET - THẦY MIỀN\Huong\140123010.net\WebApplication1\WebApplication1\bin\roslyn\Microsoft.Win32.Primitives.dll
-D:\LỚP ĐẠI HỌC CNTT - 2023-2025\Môn - CHUYÊN ĐỀ ASP.NET - THẦY MIỀN\Huong\140123010.net\WebApplication1\WebApplication1\bin\roslyn\System.AppContext.dll
-D:\LỚP ĐẠI HỌC CNTT - 2023-2025\Môn - CHUYÊN ĐỀ ASP.NET - THẦY MIỀN\Huong\140123010.net\WebApplication1\WebApplication1\bin\roslyn\System.Collections.Immutable.dll
-D:\LỚP ĐẠI HỌC CNTT - 2023-2025\Môn - CHUYÊN ĐỀ ASP.NET - THẦY MIỀN\Huong\140123010.net\WebApplication1\WebApplication1\bin\roslyn\System.Console.dll
-D:\LỚP ĐẠI HỌC CNTT - 2023-2025\Môn - CHUYÊN ĐỀ ASP.NET - THẦY MIỀN\Huong\140123010.net\WebApplication1\WebApplication1\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
-D:\LỚP ĐẠI HỌC CNTT - 2023-2025\Môn - CHUYÊN ĐỀ ASP.NET - THẦY MIỀN\Huong\140123010.net\WebApplication1\WebApplication1\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
-D:\LỚP ĐẠI HỌC CNTT - 2023-2025\Môn - CHUYÊN ĐỀ ASP.NET - THẦY MIỀN\Huong\140123010.net\WebApplication1\WebApplication1\bin\roslyn\System.Diagnostics.StackTrace.dll
-D:\LỚP ĐẠI HỌC CNTT - 2023-2025\Môn - CHUYÊN ĐỀ ASP.NET - THẦY MIỀN\Huong\140123010.net\WebApplication1\WebApplication1\bin\roslyn\System.Globalization.Calendars.dll
-D:\LỚP ĐẠI HỌC CNTT - 2023-2025\Môn - CHUYÊN ĐỀ ASP.NET - THẦY MIỀN\Huong\140123010.net\WebApplication1\WebApplication1\bin\roslyn\System.IO.Compression.dll
-D:\LỚP ĐẠI HỌC CNTT - 2023-2025\Môn - CHUYÊN ĐỀ ASP.NET - THẦY MIỀN\Huong\140123010.net\WebApplication1\WebApplication1\bin\roslyn\System.IO.Compression.ZipFile.dll
-D:\LỚP ĐẠI HỌC CNTT - 2023-2025\Môn - CHUYÊN ĐỀ ASP.NET - THẦY MIỀN\Huong\140123010.net\WebApplication1\WebApplication1\bin\roslyn\System.IO.FileSystem.dll
-D:\LỚP ĐẠI HỌC CNTT - 2023-2025\Môn - CHUYÊN ĐỀ ASP.NET - THẦY MIỀN\Huong\140123010.net\WebApplication1\WebApplication1\bin\roslyn\System.IO.FileSystem.Primitives.dll
-D:\LỚP ĐẠI HỌC CNTT - 2023-2025\Môn - CHUYÊN ĐỀ ASP.NET - THẦY MIỀN\Huong\140123010.net\WebApplication1\WebApplication1\bin\roslyn\System.Net.Http.dll
-D:\LỚP ĐẠI HỌC CNTT - 2023-2025\Môn - CHUYÊN ĐỀ ASP.NET - THẦY MIỀN\Huong\140123010.net\WebApplication1\WebApplication1\bin\roslyn\System.Net.Sockets.dll
-D:\LỚP ĐẠI HỌC CNTT - 2023-2025\Môn - CHUYÊN ĐỀ ASP.NET - THẦY MIỀN\Huong\140123010.net\WebApplication1\WebApplication1\bin\roslyn\System.Reflection.Metadata.dll
-D:\LỚP ĐẠI HỌC CNTT - 2023-2025\Môn - CHUYÊN ĐỀ ASP.NET - THẦY MIỀN\Huong\140123010.net\WebApplication1\WebApplication1\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
-D:\LỚP ĐẠI HỌC CNTT - 2023-2025\Môn - CHUYÊN ĐỀ ASP.NET - THẦY MIỀN\Huong\140123010.net\WebApplication1\WebApplication1\bin\roslyn\System.Security.Cryptography.Algorithms.dll
-D:\LỚP ĐẠI HỌC CNTT - 2023-2025\Môn - CHUYÊN ĐỀ ASP.NET - THẦY MIỀN\Huong\140123010.net\WebApplication1\WebApplication1\bin\roslyn\System.Security.Cryptography.Encoding.dll
-D:\LỚP ĐẠI HỌC CNTT - 2023-2025\Môn - CHUYÊN ĐỀ ASP.NET - THẦY MIỀN\Huong\140123010.net\WebApplication1\WebApplication1\bin\roslyn\System.Security.Cryptography.Primitives.dll
-D:\LỚP ĐẠI HỌC CNTT - 2023-2025\Môn - CHUYÊN ĐỀ ASP.NET - THẦY MIỀN\Huong\140123010.net\WebApplication1\WebApplication1\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
-D:\LỚP ĐẠI HỌC CNTT - 2023-2025\Môn - CHUYÊN ĐỀ ASP.NET - THẦY MIỀN\Huong\140123010.net\WebApplication1\WebApplication1\bin\roslyn\System.Text.Encoding.CodePages.dll
-D:\LỚP ĐẠI HỌC CNTT - 2023-2025\Môn - CHUYÊN ĐỀ ASP.NET - THẦY MIỀN\Huong\140123010.net\WebApplication1\WebApplication1\bin\roslyn\System.Threading.Tasks.Extensions.dll
-D:\LỚP ĐẠI HỌC CNTT - 2023-2025\Môn - CHUYÊN ĐỀ ASP.NET - THẦY MIỀN\Huong\140123010.net\WebApplication1\WebApplication1\bin\roslyn\System.ValueTuple.dll
-D:\LỚP ĐẠI HỌC CNTT - 2023-2025\Môn - CHUYÊN ĐỀ ASP.NET - THẦY MIỀN\Huong\140123010.net\WebApplication1\WebApplication1\bin\roslyn\System.Xml.ReaderWriter.dll
-D:\LỚP ĐẠI HỌC CNTT - 2023-2025\Môn - CHUYÊN ĐỀ ASP.NET - THẦY MIỀN\Huong\140123010.net\WebApplication1\WebApplication1\bin\roslyn\System.Xml.XmlDocument.dll
-D:\LỚP ĐẠI HỌC CNTT - 2023-2025\Môn - CHUYÊN ĐỀ ASP.NET - THẦY MIỀN\Huong\140123010.net\WebApplication1\WebApplication1\bin\roslyn\System.Xml.XPath.dll
-D:\LỚP ĐẠI HỌC CNTT - 2023-2025\Môn - CHUYÊN ĐỀ ASP.NET - THẦY MIỀN\Huong\140123010.net\WebApplication1\WebApplication1\bin\roslyn\System.Xml.XPath.XDocument.dll
-D:\LỚP ĐẠI HỌC CNTT - 2023-2025\Môn - CHUYÊN ĐỀ ASP.NET - THẦY MIỀN\Huong\140123010.net\WebApplication1\WebApplication1\bin\roslyn\vbc.exe
-D:\LỚP ĐẠI HỌC CNTT - 2023-2025\Môn - CHUYÊN ĐỀ ASP.NET - THẦY MIỀN\Huong\140123010.net\WebApplication1\WebApplication1\bin\roslyn\vbc.exe.config
-D:\LỚP ĐẠI HỌC CNTT - 2023-2025\Môn - CHUYÊN ĐỀ ASP.NET - THẦY MIỀN\Huong\140123010.net\WebApplication1\WebApplication1\bin\roslyn\vbc.rsp
-D:\LỚP ĐẠI HỌC CNTT - 2023-2025\Môn - CHUYÊN ĐỀ ASP.NET - THẦY MIỀN\Huong\140123010.net\WebApplication1\WebApplication1\bin\roslyn\VBCSCompiler.exe
-D:\LỚP ĐẠI HỌC CNTT - 2023-2025\Môn - CHUYÊN ĐỀ ASP.NET - THẦY MIỀN\Huong\140123010.net\WebApplication1\WebApplication1\bin\roslyn\VBCSCompiler.exe.config
-D:\LỚP ĐẠI HỌC CNTT - 2023-2025\Môn - CHUYÊN ĐỀ ASP.NET - THẦY MIỀN\Huong\140123010.net\WebApplication1\WebApplication1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
-D:\LỚP ĐẠI HỌC CNTT - 2023-2025\Môn - CHUYÊN ĐỀ ASP.NET - THẦY MIỀN\Huong\140123010.net\WebApplication1\WebApplication1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
-D:\LỚP ĐẠI HỌC CNTT - 2023-2025\Môn - CHUYÊN ĐỀ ASP.NET - THẦY MIỀN\Huong\140123010.net\WebApplication1\WebApplication1\obj\Debug\WebApplication1.csproj.AssemblyReference.cache
-D:\LỚP ĐẠI HỌC CNTT - 2023-2025\Môn - CHUYÊN ĐỀ ASP.NET - THẦY MIỀN\Huong\140123010.net\WebApplication1\WebApplication1\obj\Debug\WebApplication1.csproj.CoreCompileInputs.cache
-D:\LỚP ĐẠI HỌC CNTT - 2023-2025\Môn - CHUYÊN ĐỀ ASP.NET - THẦY MIỀN\Huong\140123010.net\WebApplication1\WebApplication1\obj\Debug\WebAppli.7D14BD69.Up2Date
-D:\LỚP ĐẠI HỌC CNTT - 2023-2025\Môn - CHUYÊN ĐỀ ASP.NET - THẦY MIỀN\Huong\140123010.net\WebApplication1\WebApplication1\obj\Debug\WebApplication1.dll
-D:\LỚP ĐẠI HỌC CNTT - 2023-2025\Môn - CHUYÊN ĐỀ ASP.NET - THẦY MIỀN\Huong\140123010.net\WebApplication1\WebApplication1\obj\Debug\WebApplication1.pdb
-D:\LỚP ĐẠI HỌC CNTT - 2023-2025\Môn - CHUYÊN ĐỀ ASP.NET - THẦY MIỀN\TTDo\140123013-TTDo-TestASP.net\Nop bai\WebApplication1\obj\Debug\WebApplication1.csproj.AssemblyReference.cache
-D:\LỚP ĐẠI HỌC CNTT - 2023-2025\Môn - CHUYÊN ĐỀ ASP.NET - THẦY MIỀN\TTDo\140123013-TTDo-TestASP.net\Nop bai\WebApplication1\obj\Debug\WebApplication1.csproj.CoreCompileInputs.cache
+D:\Huong\140123010.net\140123010.net\140123010.net\WebApplication1\WebApplication1\bin\WebApplication1.dll.config
+D:\Huong\140123010.net\140123010.net\140123010.net\WebApplication1\WebApplication1\bin\WebApplication1.dll
+D:\Huong\140123010.net\140123010.net\140123010.net\WebApplication1\WebApplication1\bin\WebApplication1.pdb
+D:\Huong\140123010.net\140123010.net\140123010.net\WebApplication1\WebApplication1\bin\roslyn\csc.exe
+D:\Huong\140123010.net\140123010.net\140123010.net\WebApplication1\WebApplication1\bin\roslyn\csc.exe.config
+D:\Huong\140123010.net\140123010.net\140123010.net\WebApplication1\WebApplication1\bin\roslyn\csc.rsp
+D:\Huong\140123010.net\140123010.net\140123010.net\WebApplication1\WebApplication1\bin\roslyn\csi.exe
+D:\Huong\140123010.net\140123010.net\140123010.net\WebApplication1\WebApplication1\bin\roslyn\csi.exe.config
+D:\Huong\140123010.net\140123010.net\140123010.net\WebApplication1\WebApplication1\bin\roslyn\csi.rsp
+D:\Huong\140123010.net\140123010.net\140123010.net\WebApplication1\WebApplication1\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Huong\140123010.net\140123010.net\140123010.net\WebApplication1\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Huong\140123010.net\140123010.net\140123010.net\WebApplication1\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Huong\140123010.net\140123010.net\140123010.net\WebApplication1\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Huong\140123010.net\140123010.net\140123010.net\WebApplication1\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Huong\140123010.net\140123010.net\140123010.net\WebApplication1\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Huong\140123010.net\140123010.net\140123010.net\WebApplication1\WebApplication1\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Huong\140123010.net\140123010.net\140123010.net\WebApplication1\WebApplication1\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Huong\140123010.net\140123010.net\140123010.net\WebApplication1\WebApplication1\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Huong\140123010.net\140123010.net\140123010.net\WebApplication1\WebApplication1\bin\roslyn\Microsoft.Managed.Core.targets
+D:\Huong\140123010.net\140123010.net\140123010.net\WebApplication1\WebApplication1\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Huong\140123010.net\140123010.net\140123010.net\WebApplication1\WebApplication1\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\Huong\140123010.net\140123010.net\140123010.net\WebApplication1\WebApplication1\bin\roslyn\System.AppContext.dll
+D:\Huong\140123010.net\140123010.net\140123010.net\WebApplication1\WebApplication1\bin\roslyn\System.Collections.Immutable.dll
+D:\Huong\140123010.net\140123010.net\140123010.net\WebApplication1\WebApplication1\bin\roslyn\System.Console.dll
+D:\Huong\140123010.net\140123010.net\140123010.net\WebApplication1\WebApplication1\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\Huong\140123010.net\140123010.net\140123010.net\WebApplication1\WebApplication1\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\Huong\140123010.net\140123010.net\140123010.net\WebApplication1\WebApplication1\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Huong\140123010.net\140123010.net\140123010.net\WebApplication1\WebApplication1\bin\roslyn\System.Globalization.Calendars.dll
+D:\Huong\140123010.net\140123010.net\140123010.net\WebApplication1\WebApplication1\bin\roslyn\System.IO.Compression.dll
+D:\Huong\140123010.net\140123010.net\140123010.net\WebApplication1\WebApplication1\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\Huong\140123010.net\140123010.net\140123010.net\WebApplication1\WebApplication1\bin\roslyn\System.IO.FileSystem.dll
+D:\Huong\140123010.net\140123010.net\140123010.net\WebApplication1\WebApplication1\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Huong\140123010.net\140123010.net\140123010.net\WebApplication1\WebApplication1\bin\roslyn\System.Net.Http.dll
+D:\Huong\140123010.net\140123010.net\140123010.net\WebApplication1\WebApplication1\bin\roslyn\System.Net.Sockets.dll
+D:\Huong\140123010.net\140123010.net\140123010.net\WebApplication1\WebApplication1\bin\roslyn\System.Reflection.Metadata.dll
+D:\Huong\140123010.net\140123010.net\140123010.net\WebApplication1\WebApplication1\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\Huong\140123010.net\140123010.net\140123010.net\WebApplication1\WebApplication1\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\Huong\140123010.net\140123010.net\140123010.net\WebApplication1\WebApplication1\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\Huong\140123010.net\140123010.net\140123010.net\WebApplication1\WebApplication1\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\Huong\140123010.net\140123010.net\140123010.net\WebApplication1\WebApplication1\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\Huong\140123010.net\140123010.net\140123010.net\WebApplication1\WebApplication1\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\Huong\140123010.net\140123010.net\140123010.net\WebApplication1\WebApplication1\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\Huong\140123010.net\140123010.net\140123010.net\WebApplication1\WebApplication1\bin\roslyn\System.ValueTuple.dll
+D:\Huong\140123010.net\140123010.net\140123010.net\WebApplication1\WebApplication1\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\Huong\140123010.net\140123010.net\140123010.net\WebApplication1\WebApplication1\bin\roslyn\System.Xml.XmlDocument.dll
+D:\Huong\140123010.net\140123010.net\140123010.net\WebApplication1\WebApplication1\bin\roslyn\System.Xml.XPath.dll
+D:\Huong\140123010.net\140123010.net\140123010.net\WebApplication1\WebApplication1\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\Huong\140123010.net\140123010.net\140123010.net\WebApplication1\WebApplication1\bin\roslyn\vbc.exe
+D:\Huong\140123010.net\140123010.net\140123010.net\WebApplication1\WebApplication1\bin\roslyn\vbc.exe.config
+D:\Huong\140123010.net\140123010.net\140123010.net\WebApplication1\WebApplication1\bin\roslyn\vbc.rsp
+D:\Huong\140123010.net\140123010.net\140123010.net\WebApplication1\WebApplication1\bin\roslyn\VBCSCompiler.exe
+D:\Huong\140123010.net\140123010.net\140123010.net\WebApplication1\WebApplication1\bin\roslyn\VBCSCompiler.exe.config
+D:\Huong\140123010.net\140123010.net\140123010.net\WebApplication1\WebApplication1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Huong\140123010.net\140123010.net\140123010.net\WebApplication1\WebApplication1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Huong\140123010.net\140123010.net\140123010.net\WebApplication1\WebApplication1\obj\Debug\WebApplication1.csproj.AssemblyReference.cache
+D:\Huong\140123010.net\140123010.net\140123010.net\WebApplication1\WebApplication1\obj\Debug\WebApplication1.csproj.CoreCompileInputs.cache
+D:\Huong\140123010.net\140123010.net\140123010.net\WebApplication1\WebApplication1\obj\Debug\WebAppli.7D14BD69.Up2Date
+D:\Huong\140123010.net\140123010.net\140123010.net\WebApplication1\WebApplication1\obj\Debug\WebApplication1.dll
+D:\Huong\140123010.net\140123010.net\140123010.net\WebApplication1\WebApplication1\obj\Debug\WebApplication1.pdb
+D:\ASP\140123010.net\140123010.net\WebApplication1\WebApplication1\bin\WebApplication1.dll.config
+D:\ASP\140123010.net\140123010.net\WebApplication1\WebApplication1\bin\WebApplication1.dll
+D:\ASP\140123010.net\140123010.net\WebApplication1\WebApplication1\bin\WebApplication1.pdb
+D:\ASP\140123010.net\140123010.net\WebApplication1\WebApplication1\bin\roslyn\csc.exe
+D:\ASP\140123010.net\140123010.net\WebApplication1\WebApplication1\bin\roslyn\csc.exe.config
+D:\ASP\140123010.net\140123010.net\WebApplication1\WebApplication1\bin\roslyn\csc.rsp
+D:\ASP\140123010.net\140123010.net\WebApplication1\WebApplication1\bin\roslyn\csi.exe
+D:\ASP\140123010.net\140123010.net\WebApplication1\WebApplication1\bin\roslyn\csi.exe.config
+D:\ASP\140123010.net\140123010.net\WebApplication1\WebApplication1\bin\roslyn\csi.rsp
+D:\ASP\140123010.net\140123010.net\WebApplication1\WebApplication1\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\ASP\140123010.net\140123010.net\WebApplication1\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\ASP\140123010.net\140123010.net\WebApplication1\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\ASP\140123010.net\140123010.net\WebApplication1\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\ASP\140123010.net\140123010.net\WebApplication1\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\ASP\140123010.net\140123010.net\WebApplication1\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\ASP\140123010.net\140123010.net\WebApplication1\WebApplication1\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\ASP\140123010.net\140123010.net\WebApplication1\WebApplication1\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\ASP\140123010.net\140123010.net\WebApplication1\WebApplication1\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\ASP\140123010.net\140123010.net\WebApplication1\WebApplication1\bin\roslyn\Microsoft.Managed.Core.targets
+D:\ASP\140123010.net\140123010.net\WebApplication1\WebApplication1\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\ASP\140123010.net\140123010.net\WebApplication1\WebApplication1\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\ASP\140123010.net\140123010.net\WebApplication1\WebApplication1\bin\roslyn\System.AppContext.dll
+D:\ASP\140123010.net\140123010.net\WebApplication1\WebApplication1\bin\roslyn\System.Collections.Immutable.dll
+D:\ASP\140123010.net\140123010.net\WebApplication1\WebApplication1\bin\roslyn\System.Console.dll
+D:\ASP\140123010.net\140123010.net\WebApplication1\WebApplication1\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\ASP\140123010.net\140123010.net\WebApplication1\WebApplication1\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\ASP\140123010.net\140123010.net\WebApplication1\WebApplication1\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\ASP\140123010.net\140123010.net\WebApplication1\WebApplication1\bin\roslyn\System.Globalization.Calendars.dll
+D:\ASP\140123010.net\140123010.net\WebApplication1\WebApplication1\bin\roslyn\System.IO.Compression.dll
+D:\ASP\140123010.net\140123010.net\WebApplication1\WebApplication1\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\ASP\140123010.net\140123010.net\WebApplication1\WebApplication1\bin\roslyn\System.IO.FileSystem.dll
+D:\ASP\140123010.net\140123010.net\WebApplication1\WebApplication1\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\ASP\140123010.net\140123010.net\WebApplication1\WebApplication1\bin\roslyn\System.Net.Http.dll
+D:\ASP\140123010.net\140123010.net\WebApplication1\WebApplication1\bin\roslyn\System.Net.Sockets.dll
+D:\ASP\140123010.net\140123010.net\WebApplication1\WebApplication1\bin\roslyn\System.Reflection.Metadata.dll
+D:\ASP\140123010.net\140123010.net\WebApplication1\WebApplication1\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\ASP\140123010.net\140123010.net\WebApplication1\WebApplication1\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\ASP\140123010.net\140123010.net\WebApplication1\WebApplication1\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\ASP\140123010.net\140123010.net\WebApplication1\WebApplication1\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\ASP\140123010.net\140123010.net\WebApplication1\WebApplication1\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\ASP\140123010.net\140123010.net\WebApplication1\WebApplication1\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\ASP\140123010.net\140123010.net\WebApplication1\WebApplication1\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\ASP\140123010.net\140123010.net\WebApplication1\WebApplication1\bin\roslyn\System.ValueTuple.dll
+D:\ASP\140123010.net\140123010.net\WebApplication1\WebApplication1\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\ASP\140123010.net\140123010.net\WebApplication1\WebApplication1\bin\roslyn\System.Xml.XmlDocument.dll
+D:\ASP\140123010.net\140123010.net\WebApplication1\WebApplication1\bin\roslyn\System.Xml.XPath.dll
+D:\ASP\140123010.net\140123010.net\WebApplication1\WebApplication1\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\ASP\140123010.net\140123010.net\WebApplication1\WebApplication1\bin\roslyn\vbc.exe
+D:\ASP\140123010.net\140123010.net\WebApplication1\WebApplication1\bin\roslyn\vbc.exe.config
+D:\ASP\140123010.net\140123010.net\WebApplication1\WebApplication1\bin\roslyn\vbc.rsp
+D:\ASP\140123010.net\140123010.net\WebApplication1\WebApplication1\bin\roslyn\VBCSCompiler.exe
+D:\ASP\140123010.net\140123010.net\WebApplication1\WebApplication1\bin\roslyn\VBCSCompiler.exe.config
+D:\ASP\140123010.net\140123010.net\WebApplication1\WebApplication1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\ASP\140123010.net\140123010.net\WebApplication1\WebApplication1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\ASP\140123010.net\140123010.net\WebApplication1\WebApplication1\obj\Debug\WebApplication1.csproj.AssemblyReference.cache
+D:\ASP\140123010.net\140123010.net\WebApplication1\WebApplication1\obj\Debug\WebApplication1.csproj.CoreCompileInputs.cache
+D:\ASP\140123010.net\140123010.net\WebApplication1\WebApplication1\obj\Debug\WebAppli.7D14BD69.Up2Date
+D:\ASP\140123010.net\140123010.net\WebApplication1\WebApplication1\obj\Debug\WebApplication1.dll
+D:\ASP\140123010.net\140123010.net\WebApplication1\WebApplication1\obj\Debug\WebApplication1.pdb
+D:\TTDo (1)\TTDo\140123013-TTDo-TestASP.net\Nop bai\WebApplication1\bin\WebApplication1.dll.config
+D:\TTDo (1)\TTDo\140123013-TTDo-TestASP.net\Nop bai\WebApplication1\bin\WebApplication1.dll
+D:\TTDo (1)\TTDo\140123013-TTDo-TestASP.net\Nop bai\WebApplication1\bin\WebApplication1.pdb
+D:\TTDo (1)\TTDo\140123013-TTDo-TestASP.net\Nop bai\WebApplication1\bin\roslyn\csc.exe
+D:\TTDo (1)\TTDo\140123013-TTDo-TestASP.net\Nop bai\WebApplication1\bin\roslyn\csc.exe.config
+D:\TTDo (1)\TTDo\140123013-TTDo-TestASP.net\Nop bai\WebApplication1\bin\roslyn\csc.rsp
+D:\TTDo (1)\TTDo\140123013-TTDo-TestASP.net\Nop bai\WebApplication1\bin\roslyn\csi.exe
+D:\TTDo (1)\TTDo\140123013-TTDo-TestASP.net\Nop bai\WebApplication1\bin\roslyn\csi.exe.config
+D:\TTDo (1)\TTDo\140123013-TTDo-TestASP.net\Nop bai\WebApplication1\bin\roslyn\csi.rsp
+D:\TTDo (1)\TTDo\140123013-TTDo-TestASP.net\Nop bai\WebApplication1\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\TTDo (1)\TTDo\140123013-TTDo-TestASP.net\Nop bai\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\TTDo (1)\TTDo\140123013-TTDo-TestASP.net\Nop bai\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\TTDo (1)\TTDo\140123013-TTDo-TestASP.net\Nop bai\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\TTDo (1)\TTDo\140123013-TTDo-TestASP.net\Nop bai\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\TTDo (1)\TTDo\140123013-TTDo-TestASP.net\Nop bai\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\TTDo (1)\TTDo\140123013-TTDo-TestASP.net\Nop bai\WebApplication1\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\TTDo (1)\TTDo\140123013-TTDo-TestASP.net\Nop bai\WebApplication1\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\TTDo (1)\TTDo\140123013-TTDo-TestASP.net\Nop bai\WebApplication1\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\TTDo (1)\TTDo\140123013-TTDo-TestASP.net\Nop bai\WebApplication1\bin\roslyn\Microsoft.Managed.Core.targets
+D:\TTDo (1)\TTDo\140123013-TTDo-TestASP.net\Nop bai\WebApplication1\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\TTDo (1)\TTDo\140123013-TTDo-TestASP.net\Nop bai\WebApplication1\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\TTDo (1)\TTDo\140123013-TTDo-TestASP.net\Nop bai\WebApplication1\bin\roslyn\System.AppContext.dll
+D:\TTDo (1)\TTDo\140123013-TTDo-TestASP.net\Nop bai\WebApplication1\bin\roslyn\System.Collections.Immutable.dll
+D:\TTDo (1)\TTDo\140123013-TTDo-TestASP.net\Nop bai\WebApplication1\bin\roslyn\System.Console.dll
+D:\TTDo (1)\TTDo\140123013-TTDo-TestASP.net\Nop bai\WebApplication1\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\TTDo (1)\TTDo\140123013-TTDo-TestASP.net\Nop bai\WebApplication1\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\TTDo (1)\TTDo\140123013-TTDo-TestASP.net\Nop bai\WebApplication1\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\TTDo (1)\TTDo\140123013-TTDo-TestASP.net\Nop bai\WebApplication1\bin\roslyn\System.Globalization.Calendars.dll
+D:\TTDo (1)\TTDo\140123013-TTDo-TestASP.net\Nop bai\WebApplication1\bin\roslyn\System.IO.Compression.dll
+D:\TTDo (1)\TTDo\140123013-TTDo-TestASP.net\Nop bai\WebApplication1\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\TTDo (1)\TTDo\140123013-TTDo-TestASP.net\Nop bai\WebApplication1\bin\roslyn\System.IO.FileSystem.dll
+D:\TTDo (1)\TTDo\140123013-TTDo-TestASP.net\Nop bai\WebApplication1\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\TTDo (1)\TTDo\140123013-TTDo-TestASP.net\Nop bai\WebApplication1\bin\roslyn\System.Net.Http.dll
+D:\TTDo (1)\TTDo\140123013-TTDo-TestASP.net\Nop bai\WebApplication1\bin\roslyn\System.Net.Sockets.dll
+D:\TTDo (1)\TTDo\140123013-TTDo-TestASP.net\Nop bai\WebApplication1\bin\roslyn\System.Reflection.Metadata.dll
+D:\TTDo (1)\TTDo\140123013-TTDo-TestASP.net\Nop bai\WebApplication1\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\TTDo (1)\TTDo\140123013-TTDo-TestASP.net\Nop bai\WebApplication1\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\TTDo (1)\TTDo\140123013-TTDo-TestASP.net\Nop bai\WebApplication1\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\TTDo (1)\TTDo\140123013-TTDo-TestASP.net\Nop bai\WebApplication1\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\TTDo (1)\TTDo\140123013-TTDo-TestASP.net\Nop bai\WebApplication1\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\TTDo (1)\TTDo\140123013-TTDo-TestASP.net\Nop bai\WebApplication1\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\TTDo (1)\TTDo\140123013-TTDo-TestASP.net\Nop bai\WebApplication1\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\TTDo (1)\TTDo\140123013-TTDo-TestASP.net\Nop bai\WebApplication1\bin\roslyn\System.ValueTuple.dll
+D:\TTDo (1)\TTDo\140123013-TTDo-TestASP.net\Nop bai\WebApplication1\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\TTDo (1)\TTDo\140123013-TTDo-TestASP.net\Nop bai\WebApplication1\bin\roslyn\System.Xml.XmlDocument.dll
+D:\TTDo (1)\TTDo\140123013-TTDo-TestASP.net\Nop bai\WebApplication1\bin\roslyn\System.Xml.XPath.dll
+D:\TTDo (1)\TTDo\140123013-TTDo-TestASP.net\Nop bai\WebApplication1\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\TTDo (1)\TTDo\140123013-TTDo-TestASP.net\Nop bai\WebApplication1\bin\roslyn\vbc.exe
+D:\TTDo (1)\TTDo\140123013-TTDo-TestASP.net\Nop bai\WebApplication1\bin\roslyn\vbc.exe.config
+D:\TTDo (1)\TTDo\140123013-TTDo-TestASP.net\Nop bai\WebApplication1\bin\roslyn\vbc.rsp
+D:\TTDo (1)\TTDo\140123013-TTDo-TestASP.net\Nop bai\WebApplication1\bin\roslyn\VBCSCompiler.exe
+D:\TTDo (1)\TTDo\140123013-TTDo-TestASP.net\Nop bai\WebApplication1\bin\roslyn\VBCSCompiler.exe.config
+D:\TTDo (1)\TTDo\140123013-TTDo-TestASP.net\Nop bai\WebApplication1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\TTDo (1)\TTDo\140123013-TTDo-TestASP.net\Nop bai\WebApplication1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\TTDo (1)\TTDo\140123013-TTDo-TestASP.net\Nop bai\WebApplication1\obj\Debug\WebApplication1.csproj.AssemblyReference.cache
+D:\TTDo (1)\TTDo\140123013-TTDo-TestASP.net\Nop bai\WebApplication1\obj\Debug\WebApplication1.csproj.CoreCompileInputs.cache
+D:\TTDo (1)\TTDo\140123013-TTDo-TestASP.net\Nop bai\WebApplication1\obj\Debug\WebApplication1.csproj.CopyComplete
+D:\TTDo (1)\TTDo\140123013-TTDo-TestASP.net\Nop bai\WebApplication1\obj\Debug\WebApplication1.dll
+D:\TTDo (1)\TTDo\140123013-TTDo-TestASP.net\Nop bai\WebApplication1\obj\Debug\WebApplication1.pdb
+D:\TTDo\140123013-TTDo-TestASP.net\Nop bai\WebApplication1\bin\WebApplication1.dll.config
+D:\TTDo\140123013-TTDo-TestASP.net\Nop bai\WebApplication1\bin\WebApplication1.dll
+D:\TTDo\140123013-TTDo-TestASP.net\Nop bai\WebApplication1\bin\WebApplication1.pdb
+D:\TTDo\140123013-TTDo-TestASP.net\Nop bai\WebApplication1\bin\roslyn\csc.exe
+D:\TTDo\140123013-TTDo-TestASP.net\Nop bai\WebApplication1\bin\roslyn\csc.exe.config
+D:\TTDo\140123013-TTDo-TestASP.net\Nop bai\WebApplication1\bin\roslyn\csc.rsp
+D:\TTDo\140123013-TTDo-TestASP.net\Nop bai\WebApplication1\bin\roslyn\csi.exe
+D:\TTDo\140123013-TTDo-TestASP.net\Nop bai\WebApplication1\bin\roslyn\csi.exe.config
+D:\TTDo\140123013-TTDo-TestASP.net\Nop bai\WebApplication1\bin\roslyn\csi.rsp
+D:\TTDo\140123013-TTDo-TestASP.net\Nop bai\WebApplication1\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\TTDo\140123013-TTDo-TestASP.net\Nop bai\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\TTDo\140123013-TTDo-TestASP.net\Nop bai\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\TTDo\140123013-TTDo-TestASP.net\Nop bai\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\TTDo\140123013-TTDo-TestASP.net\Nop bai\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\TTDo\140123013-TTDo-TestASP.net\Nop bai\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\TTDo\140123013-TTDo-TestASP.net\Nop bai\WebApplication1\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\TTDo\140123013-TTDo-TestASP.net\Nop bai\WebApplication1\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\TTDo\140123013-TTDo-TestASP.net\Nop bai\WebApplication1\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\TTDo\140123013-TTDo-TestASP.net\Nop bai\WebApplication1\bin\roslyn\Microsoft.Managed.Core.targets
+D:\TTDo\140123013-TTDo-TestASP.net\Nop bai\WebApplication1\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\TTDo\140123013-TTDo-TestASP.net\Nop bai\WebApplication1\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\TTDo\140123013-TTDo-TestASP.net\Nop bai\WebApplication1\bin\roslyn\System.AppContext.dll
+D:\TTDo\140123013-TTDo-TestASP.net\Nop bai\WebApplication1\bin\roslyn\System.Collections.Immutable.dll
+D:\TTDo\140123013-TTDo-TestASP.net\Nop bai\WebApplication1\bin\roslyn\System.Console.dll
+D:\TTDo\140123013-TTDo-TestASP.net\Nop bai\WebApplication1\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\TTDo\140123013-TTDo-TestASP.net\Nop bai\WebApplication1\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\TTDo\140123013-TTDo-TestASP.net\Nop bai\WebApplication1\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\TTDo\140123013-TTDo-TestASP.net\Nop bai\WebApplication1\bin\roslyn\System.Globalization.Calendars.dll
+D:\TTDo\140123013-TTDo-TestASP.net\Nop bai\WebApplication1\bin\roslyn\System.IO.Compression.dll
+D:\TTDo\140123013-TTDo-TestASP.net\Nop bai\WebApplication1\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\TTDo\140123013-TTDo-TestASP.net\Nop bai\WebApplication1\bin\roslyn\System.IO.FileSystem.dll
+D:\TTDo\140123013-TTDo-TestASP.net\Nop bai\WebApplication1\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\TTDo\140123013-TTDo-TestASP.net\Nop bai\WebApplication1\bin\roslyn\System.Net.Http.dll
+D:\TTDo\140123013-TTDo-TestASP.net\Nop bai\WebApplication1\bin\roslyn\System.Net.Sockets.dll
+D:\TTDo\140123013-TTDo-TestASP.net\Nop bai\WebApplication1\bin\roslyn\System.Reflection.Metadata.dll
+D:\TTDo\140123013-TTDo-TestASP.net\Nop bai\WebApplication1\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\TTDo\140123013-TTDo-TestASP.net\Nop bai\WebApplication1\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\TTDo\140123013-TTDo-TestASP.net\Nop bai\WebApplication1\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\TTDo\140123013-TTDo-TestASP.net\Nop bai\WebApplication1\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\TTDo\140123013-TTDo-TestASP.net\Nop bai\WebApplication1\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\TTDo\140123013-TTDo-TestASP.net\Nop bai\WebApplication1\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\TTDo\140123013-TTDo-TestASP.net\Nop bai\WebApplication1\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\TTDo\140123013-TTDo-TestASP.net\Nop bai\WebApplication1\bin\roslyn\System.ValueTuple.dll
+D:\TTDo\140123013-TTDo-TestASP.net\Nop bai\WebApplication1\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\TTDo\140123013-TTDo-TestASP.net\Nop bai\WebApplication1\bin\roslyn\System.Xml.XmlDocument.dll
+D:\TTDo\140123013-TTDo-TestASP.net\Nop bai\WebApplication1\bin\roslyn\System.Xml.XPath.dll
+D:\TTDo\140123013-TTDo-TestASP.net\Nop bai\WebApplication1\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\TTDo\140123013-TTDo-TestASP.net\Nop bai\WebApplication1\bin\roslyn\vbc.exe
+D:\TTDo\140123013-TTDo-TestASP.net\Nop bai\WebApplication1\bin\roslyn\vbc.exe.config
+D:\TTDo\140123013-TTDo-TestASP.net\Nop bai\WebApplication1\bin\roslyn\vbc.rsp
+D:\TTDo\140123013-TTDo-TestASP.net\Nop bai\WebApplication1\bin\roslyn\VBCSCompiler.exe
+D:\TTDo\140123013-TTDo-TestASP.net\Nop bai\WebApplication1\bin\roslyn\VBCSCompiler.exe.config
+D:\TTDo\140123013-TTDo-TestASP.net\Nop bai\WebApplication1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\TTDo\140123013-TTDo-TestASP.net\Nop bai\WebApplication1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
 D:\TTDo\140123013-TTDo-TestASP.net\Nop bai\WebApplication1\obj\Debug\WebApplication1.csproj.AssemblyReference.cache
 D:\TTDo\140123013-TTDo-TestASP.net\Nop bai\WebApplication1\obj\Debug\WebApplication1.csproj.CoreCompileInputs.cache
+D:\TTDo\140123013-TTDo-TestASP.net\Nop bai\WebApplication1\obj\Debug\WebAppli.7D14BD69.Up2Date
+D:\TTDo\140123013-TTDo-TestASP.net\Nop bai\WebApplication1\obj\Debug\WebApplication1.dll
+D:\TTDo\140123013-TTDo-TestASP.net\Nop bai\WebApplication1\obj\Debug\WebApplication1.pdb
