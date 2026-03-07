@@ -1,39 +1,79 @@
-﻿<%@ Page Title="" Language="C#" MasterPageFile="~/Site1.Master" AutoEventWireup="true" CodeBehind="QLhocvien.aspx.cs" Inherits="WebApplication1.QLhocvien" %>
-<asp:Content ID="Content1" ContentPlaceHolderID="head" runat="server">
-    <style type="text/css">
-        .auto-style1 {
-            width: 258px;
-        }
-    </style>
-</asp:Content>
-<asp:Content ID="Content2" ContentPlaceHolderID="ContentPlaceHolder1" runat="server">
-       <table class="table">
-       <tr>
-           <td class="auto-style1">Mã HV:</td>
-           <td><asp:TextBox ID="txtmahv" runat="server" CssClass="form-control"></asp:TextBox></td>
-       </tr>
-       <tr>
-            <td class="auto-style1">Họ HV:</td>
-            <td><asp:TextBox ID="txtHohv" runat="server"  CssClass="form-control"></asp:TextBox></td>
-       </tr>
-       <tr>
-           <td class="auto-style1">Tên HV:</td>
-           <td><asp:TextBox ID="txtTenhv" runat="server" CssClass="form-control"></asp:TextBox></td>
-       </tr>
-        <tr>
-           <td class="auto-style1">Địa chỉ:</td>
-           <td><asp:TextBox ID="txtDiachi" runat="server" CssClass="form-control"></asp:TextBox></td>
-</tr>
-       <tr>
-  
-           <td colspan="2"><asp:Button ID="btnThem" runat="server" Text="Thêm học viên" OnClick="btnLogin_Click"/></td>
-       </tr>
-   </table>
-   <h3>Danh sách Học viên</h3>
-    <asp:GridView ID="qlhv" runat="server">
-        <Columns>
-            <asp:CommandField ShowSelectButton="True" />
-            <asp:CommandField ShowDeleteButton="True" />
-        </Columns>
-    </asp:GridView>
+﻿<%@ Page Title="" Language="C#" MasterPageFile="~/Site1.Master" AutoEventWireup="true" CodeBehind="QLHocvien.aspx.cs" Inherits="WebApplication1.QLHocvien" %>
+
+<asp:Content ID="Content1" ContentPlaceHolderID="ContentPlaceHolder1" runat="server">
+    <div class="container mt-4">
+        <h2>Quản Lý Học Viên</h2>
+        <hr />
+        
+        <div class="row mb-3">
+            <div class="col-md-3">
+                Mã số học viên: <asp:TextBox ID="txtmahv" runat="server" CssClass="form-control"></asp:TextBox>
+            </div>
+            <div class="col-md-3">
+                Họ học viên: <asp:TextBox ID="txtHohv" runat="server" CssClass="form-control"></asp:TextBox>
+            </div>
+            <div class="col-md-3">
+                Tên học viên: <asp:TextBox ID="txtTenhv" runat="server" CssClass="form-control"></asp:TextBox>
+            </div>
+            <div class="col-md-3">
+                Địa chỉ: <asp:TextBox ID="txtDiachi" runat="server" CssClass="form-control"></asp:TextBox>
+            </div>
+        </div>
+        
+        <div class="mb-4">
+            <asp:Button ID="btnThem" runat="server" Text="Thêm" OnClick="btnThem_Click" CssClass="btn btn-primary" />
+            <asp:Button ID="btnsua" runat="server" Text="Sửa" OnClick="btnsua_Click" CssClass="btn btn-warning" />
+        </div>
+
+        <input class="form-control" id="myInput" type="text" placeholder="Search..">
+        <br />
+
+        <asp:Repeater runat="server" ID="rpHV">
+            <HeaderTemplate>
+                <table class="table table-bordered table-striped">
+                    <thead>
+                        <tr>
+                            <th>Mã số học viên</th>
+                            <th>Họ học viên</th>
+                            <th>Tên học viên</th>
+                            <th>Địa chỉ học viên</th>
+                            <th>Thao tác</th>
+                        </tr>
+                    </thead>
+                    <tbody id="myTable">
+            </HeaderTemplate>
+            
+            <ItemTemplate>
+                <tr>
+                    <td><%# Eval("MaHV") %></td>
+                    <td><%# Eval("HoHV") %></td>
+                    <td><%# Eval("TenHV") %></td>
+                    <td><%# Eval("Diachi") %></td>
+                    <td>
+                        <a href='QLHocvien.aspx?mahvs=<%# Eval("MaHV") %>' class="btn btn-sm btn-info">Sửa</a>
+                        &nbsp;
+                        <a href='QLHocvien.aspx?mahvx=<%# Eval("MaHV") %>' 
+                           onclick="return confirm('Bạn có chắc chắn muốn xóa?')" 
+                           class="btn btn-sm btn-danger">Xóa</a>
+                    </td>
+                </tr>
+            </ItemTemplate>
+
+            <FooterTemplate>
+                    </tbody>
+                </table>
+            </FooterTemplate>
+        </asp:Repeater>
+    </div>
+
+    <script>
+        $(document).ready(function(){
+          $("#myInput").on("keyup", function() {
+            var value = $(this).val().toLowerCase();
+            $("#myTable tr").filter(function() {
+              $(this).toggle($(this).text().toLowerCase().indexOf(value) > -1)
+            });
+          });
+        });
+    </script>
 </asp:Content>

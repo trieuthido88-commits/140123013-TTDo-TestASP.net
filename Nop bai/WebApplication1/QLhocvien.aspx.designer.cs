@@ -11,7 +11,7 @@ namespace WebApplication1
 {
 
 
-    public partial class QLhocvien
+    public partial class QLHocvien
     {
 
         /// <summary>
@@ -60,12 +60,21 @@ namespace WebApplication1
         protected global::System.Web.UI.WebControls.Button btnThem;
 
         /// <summary>
-        /// qlhv control.
+        /// btnsua control.
         /// </summary>
         /// <remarks>
         /// Auto-generated field.
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
-        protected global::System.Web.UI.WebControls.GridView qlhv;
+        protected global::System.Web.UI.WebControls.Button btnsua;
+
+        /// <summary>
+        /// rpHV control.
+        /// </summary>
+        /// <remarks>
+        /// Auto-generated field.
+        /// To modify move field declaration from designer file to code-behind file.
+        /// </remarks>
+        protected global::System.Web.UI.WebControls.Repeater rpHV;
     }
 }
