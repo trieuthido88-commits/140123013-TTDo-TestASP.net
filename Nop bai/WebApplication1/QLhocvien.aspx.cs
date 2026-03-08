@@ -28,9 +28,9 @@ namespace WebApplication1
                 btnsua.Enabled = false;
 
                 // Kiểm tra nếu có mã học viên truyền qua QueryString để thực hiện Sửa/Xóa
-                if (!string.IsNullOrEmpty(Request.QueryString["mahv"]))
+                if (!string.IsNullOrEmpty(Request.QueryString["mahvs"]))
                 {
-                    string mahv = Request.QueryString["mahv"];
+                    string mahv = Request.QueryString["mahvs"];
                     string sql = "select * from [HocVien] where MaHV='" + mahv + "'";
                     SqlDataAdapter da = new SqlDataAdapter(sql, kn.con);
                     DataTable dt = new DataTable();
@@ -59,7 +59,7 @@ namespace WebApplication1
                     cmd.ExecuteNonQuery();
                     kn.con.Close();
                     hienthi();
-                    Response.Redirect("QLHocvien.aspx");
+                    Response.Redirect("QLhocvien.aspx");
                 }
             }
         }
@@ -101,7 +101,7 @@ namespace WebApplication1
                 cmd.ExecuteNonQuery();
                 kn.con.Close();
                 hienthi();
-                Response.Redirect("QLHocvien.aspx");
+                Response.Redirect("QLhocvien.aspx");
             }
         }
 
@@ -119,7 +119,7 @@ namespace WebApplication1
             cmd.ExecuteNonQuery();
             kn.con.Close();
             hienthi();
-            Response.Redirect("QLHocvien.aspx");
+            Response.Redirect("QLhocvien.aspx");
         }
     }
 }

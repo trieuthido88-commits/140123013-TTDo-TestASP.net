@@ -349,6 +349,6 @@ D:\TTDo\140123013-TTDo-TestASP.net\Nop bai\WebApplication1\bin\Microsoft.CodeDom
 D:\TTDo\140123013-TTDo-TestASP.net\Nop bai\WebApplication1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
 D:\TTDo\140123013-TTDo-TestASP.net\Nop bai\WebApplication1\obj\Debug\WebApplication1.csproj.AssemblyReference.cache
 D:\TTDo\140123013-TTDo-TestASP.net\Nop bai\WebApplication1\obj\Debug\WebApplication1.csproj.CoreCompileInputs.cache
-D:\TTDo\140123013-TTDo-TestASP.net\Nop bai\WebApplication1\obj\Debug\WebAppli.7D14BD69.Up2Date
 D:\TTDo\140123013-TTDo-TestASP.net\Nop bai\WebApplication1\obj\Debug\WebApplication1.dll
 D:\TTDo\140123013-TTDo-TestASP.net\Nop bai\WebApplication1\obj\Debug\WebApplication1.pdb
+D:\TTDo\140123013-TTDo-TestASP.net\Nop bai\WebApplication1\obj\Debug\WebApplication1.csproj.CopyComplete
