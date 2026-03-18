@@ -67,6 +67,9 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+    <Content Include="Admin\Default.aspx" />
+    <Content Include="Admin\PhancongGV.aspx" />
+    <Content Include="Admin\QLNguoidung.aspx" />
     <Content Include="Avatar\anh1.jpg" />
     <Content Include="default.aspx" />
     <Content Include="Images\H1.jpg" />
@@ -83,6 +86,34 @@
     <Content Include="Web.config" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Admin\Admin.Master.cs">
+      <DependentUpon>Admin.Master</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Admin\Admin.Master.designer.cs">
+      <DependentUpon>Admin.Master</DependentUpon>
+    </Compile>
+    <Compile Include="Admin\Default.aspx.cs">
+      <DependentUpon>Default.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Admin\Default.aspx.designer.cs">
+      <DependentUpon>Default.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Admin\PhancongGV.aspx.cs">
+      <DependentUpon>PhancongGV.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Admin\PhancongGV.aspx.designer.cs">
+      <DependentUpon>PhancongGV.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Admin\QLNguoidung.aspx.cs">
+      <DependentUpon>QLNguoidung.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Admin\QLNguoidung.aspx.designer.cs">
+      <DependentUpon>QLNguoidung.aspx</DependentUpon>
+    </Compile>
     <Compile Include="default.aspx.cs">
       <DependentUpon>default.aspx</DependentUpon>
       <SubType>ASPXCodeBehind</SubType>
@@ -157,6 +188,7 @@
     </Compile>
   </ItemGroup>
   <ItemGroup>
+    <Content Include="Admin\Admin.Master" />
     <None Include="packages.config" />
     <Content Include="Site1.Master" />
     <None Include="Web.Debug.config">

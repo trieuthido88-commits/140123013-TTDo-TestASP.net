@@ -3,11 +3,39 @@
   "WorkspaceRootPath": "D:\\TTDo\\140123013-TTDo-TestASP.net\\Nop bai\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{76398EE1-379B-4A66-BC5B-9472AE2649A6}|WebApplication1\\WebApplication1.csproj|D:\\TTDo\\140123013-TTDo-TestASP.net\\Nop bai\\webapplication1\\site1.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}",
+      "AbsoluteMoniker": "D:0:0:{76398EE1-379B-4A66-BC5B-9472AE2649A6}|WebApplication1\\WebApplication1.csproj|d:\\ttdo\\140123013-ttdo-testasp.net\\nop bai\\webapplication1\\admin\\qlnguoidung.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{76398EE1-379B-4A66-BC5B-9472AE2649A6}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\admin\\qlnguoidung.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{76398EE1-379B-4A66-BC5B-9472AE2649A6}|WebApplication1\\WebApplication1.csproj|d:\\ttdo\\140123013-ttdo-testasp.net\\nop bai\\webapplication1\\admin\\default.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{76398EE1-379B-4A66-BC5B-9472AE2649A6}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\admin\\default.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{76398EE1-379B-4A66-BC5B-9472AE2649A6}|WebApplication1\\WebApplication1.csproj|d:\\ttdo\\140123013-ttdo-testasp.net\\nop bai\\webapplication1\\admin\\phanconggv.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{76398EE1-379B-4A66-BC5B-9472AE2649A6}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\admin\\phanconggv.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{76398EE1-379B-4A66-BC5B-9472AE2649A6}|WebApplication1\\WebApplication1.csproj|d:\\ttdo\\140123013-ttdo-testasp.net\\nop bai\\webapplication1\\admin\\phanconggv.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{76398EE1-379B-4A66-BC5B-9472AE2649A6}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\admin\\phanconggv.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{76398EE1-379B-4A66-BC5B-9472AE2649A6}|WebApplication1\\WebApplication1.csproj|d:\\ttdo\\140123013-ttdo-testasp.net\\nop bai\\webapplication1\\admin\\admin.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}",
+      "RelativeMoniker": "D:0:0:{76398EE1-379B-4A66-BC5B-9472AE2649A6}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\admin\\admin.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{76398EE1-379B-4A66-BC5B-9472AE2649A6}|WebApplication1\\WebApplication1.csproj|d:\\ttdo\\140123013-ttdo-testasp.net\\nop bai\\webapplication1\\admin\\qlnguoidung.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{76398EE1-379B-4A66-BC5B-9472AE2649A6}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\admin\\qlnguoidung.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{76398EE1-379B-4A66-BC5B-9472AE2649A6}|WebApplication1\\WebApplication1.csproj|d:\\ttdo\\140123013-ttdo-testasp.net\\nop bai\\webapplication1\\admin\\default.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{76398EE1-379B-4A66-BC5B-9472AE2649A6}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\admin\\default.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{76398EE1-379B-4A66-BC5B-9472AE2649A6}|WebApplication1\\WebApplication1.csproj|d:\\ttdo\\140123013-ttdo-testasp.net\\nop bai\\webapplication1\\site1.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}",
       "RelativeMoniker": "D:0:0:{76398EE1-379B-4A66-BC5B-9472AE2649A6}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\site1.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{76398EE1-379B-4A66-BC5B-9472AE2649A6}|WebApplication1\\WebApplication1.csproj|d:\\ttdo\\140123013-ttdo-testasp.net\\nop bai\\webapplication1\\qlhocvien.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{76398EE1-379B-4A66-BC5B-9472AE2649A6}|WebApplication1\\WebApplication1.csproj|D:\\TTDo\\140123013-TTDo-TestASP.net\\Nop bai\\webapplication1\\qlhocvien.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{76398EE1-379B-4A66-BC5B-9472AE2649A6}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\qlhocvien.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -34,7 +62,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
@@ -42,7 +70,98 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Default.aspx.cs",
+              "DocumentMoniker": "D:\\TTDo\\140123013-TTDo-TestASP.net\\Nop bai\\WebApplication1\\Admin\\Default.aspx.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Admin\\Default.aspx.cs",
+              "ToolTip": "D:\\TTDo\\140123013-TTDo-TestASP.net\\Nop bai\\WebApplication1\\Admin\\Default.aspx.cs",
+              "RelativeToolTip": "WebApplication1\\Admin\\Default.aspx.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-18T13:09:07.537Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "QLNguoidung.aspx.cs",
+              "DocumentMoniker": "D:\\TTDo\\140123013-TTDo-TestASP.net\\Nop bai\\WebApplication1\\Admin\\QLNguoidung.aspx.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Admin\\QLNguoidung.aspx.cs",
+              "ToolTip": "D:\\TTDo\\140123013-TTDo-TestASP.net\\Nop bai\\WebApplication1\\Admin\\QLNguoidung.aspx.cs",
+              "RelativeToolTip": "WebApplication1\\Admin\\QLNguoidung.aspx.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAQwBsAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-18T12:59:09.842Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PhancongGV.aspx.cs",
+              "DocumentMoniker": "D:\\TTDo\\140123013-TTDo-TestASP.net\\Nop bai\\WebApplication1\\Admin\\PhancongGV.aspx.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Admin\\PhancongGV.aspx.cs",
+              "ToolTip": "D:\\TTDo\\140123013-TTDo-TestASP.net\\Nop bai\\WebApplication1\\Admin\\PhancongGV.aspx.cs",
+              "RelativeToolTip": "WebApplication1\\Admin\\PhancongGV.aspx.cs",
+              "ViewState": "AgIAADYAAAAAAAAAAAAtwEEAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-18T12:22:24.156Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PhancongGV.aspx",
+              "DocumentMoniker": "D:\\TTDo\\140123013-TTDo-TestASP.net\\Nop bai\\WebApplication1\\Admin\\PhancongGV.aspx",
+              "RelativeDocumentMoniker": "WebApplication1\\Admin\\PhancongGV.aspx",
+              "ToolTip": "D:\\TTDo\\140123013-TTDo-TestASP.net\\Nop bai\\WebApplication1\\Admin\\PhancongGV.aspx",
+              "RelativeToolTip": "WebApplication1\\Admin\\PhancongGV.aspx",
+              "LogicalView": "7651a702-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2026-03-18T12:21:27.062Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 4,
+              "Title": "Admin.Master",
+              "DocumentMoniker": "D:\\TTDo\\140123013-TTDo-TestASP.net\\Nop bai\\WebApplication1\\Admin\\Admin.Master",
+              "RelativeDocumentMoniker": "WebApplication1\\Admin\\Admin.Master",
+              "ToolTip": "D:\\TTDo\\140123013-TTDo-TestASP.net\\Nop bai\\WebApplication1\\Admin\\Admin.Master",
+              "RelativeToolTip": "WebApplication1\\Admin\\Admin.Master",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2026-03-18T12:21:01.241Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "QLNguoidung.aspx",
+              "DocumentMoniker": "D:\\TTDo\\140123013-TTDo-TestASP.net\\Nop bai\\WebApplication1\\Admin\\QLNguoidung.aspx",
+              "RelativeDocumentMoniker": "WebApplication1\\Admin\\QLNguoidung.aspx",
+              "ToolTip": "D:\\TTDo\\140123013-TTDo-TestASP.net\\Nop bai\\WebApplication1\\Admin\\QLNguoidung.aspx",
+              "RelativeToolTip": "WebApplication1\\Admin\\QLNguoidung.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2026-03-18T12:19:36.082Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Default.aspx",
+              "DocumentMoniker": "D:\\TTDo\\140123013-TTDo-TestASP.net\\Nop bai\\WebApplication1\\Admin\\Default.aspx",
+              "RelativeDocumentMoniker": "WebApplication1\\Admin\\Default.aspx",
+              "ToolTip": "D:\\TTDo\\140123013-TTDo-TestASP.net\\Nop bai\\WebApplication1\\Admin\\Default.aspx",
+              "RelativeToolTip": "WebApplication1\\Admin\\Default.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2026-03-18T12:18:39.533Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
               "Title": "QLmonhoc.aspx.cs",
               "DocumentMoniker": "D:\\TTDo\\140123013-TTDo-TestASP.net\\Nop bai\\WebApplication1\\QLmonhoc.aspx.cs",
               "RelativeDocumentMoniker": "WebApplication1\\QLmonhoc.aspx.cs",
@@ -50,11 +169,12 @@
               "RelativeToolTip": "WebApplication1\\QLmonhoc.aspx.cs",
               "ViewState": "AgIAADgAAAAAAAAAAAAgwAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-07T13:25:01.313Z"
+              "WhenOpened": "2026-03-07T13:25:01.313Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 12,
               "Title": "QLgiaovien.aspx.cs",
               "DocumentMoniker": "D:\\TTDo\\140123013-TTDo-TestASP.net\\Nop bai\\WebApplication1\\QLgiaovien.aspx.cs",
               "RelativeDocumentMoniker": "WebApplication1\\QLgiaovien.aspx.cs",
@@ -62,11 +182,12 @@
               "RelativeToolTip": "WebApplication1\\QLgiaovien.aspx.cs",
               "ViewState": "AgIAADsAAAAAAAAAAAAgwAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-07T13:11:18.409Z"
+              "WhenOpened": "2026-03-07T13:11:18.409Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 9,
               "Title": "QLhocvien.aspx",
               "DocumentMoniker": "D:\\TTDo\\140123013-TTDo-TestASP.net\\Nop bai\\WebApplication1\\QLhocvien.aspx",
               "RelativeDocumentMoniker": "WebApplication1\\QLhocvien.aspx",
@@ -74,11 +195,12 @@
               "RelativeToolTip": "WebApplication1\\QLhocvien.aspx",
               "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
-              "WhenOpened": "2026-03-07T13:10:28.246Z"
+              "WhenOpened": "2026-03-07T13:10:28.246Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 8,
               "Title": "QLhocvien.aspx.cs",
               "DocumentMoniker": "D:\\TTDo\\140123013-TTDo-TestASP.net\\Nop bai\\WebApplication1\\QLhocvien.aspx.cs",
               "RelativeDocumentMoniker": "WebApplication1\\QLhocvien.aspx.cs",
@@ -91,7 +213,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 7,
               "Title": "Site1.Master",
               "DocumentMoniker": "D:\\TTDo\\140123013-TTDo-TestASP.net\\Nop bai\\WebApplication1\\Site1.Master",
               "RelativeDocumentMoniker": "WebApplication1\\Site1.Master",
@@ -104,7 +226,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 10,
               "Title": "QLgiaovien.aspx",
               "DocumentMoniker": "D:\\TTDo\\140123013-TTDo-TestASP.net\\Nop bai\\WebApplication1\\QLgiaovien.aspx",
               "RelativeDocumentMoniker": "WebApplication1\\QLgiaovien.aspx",
@@ -112,7 +234,8 @@
               "RelativeToolTip": "WebApplication1\\QLgiaovien.aspx",
               "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
-              "WhenOpened": "2026-03-07T13:27:32.679Z"
+              "WhenOpened": "2026-03-07T13:27:32.679Z",
+              "EditorCaption": ""
             }
           ]
         }
